@@ -12,6 +12,5 @@ Este repositorio contiene el proyecto del Equipo 16
 ### Contenido
 El repositorio contiene:
 - Cuaderno Colab con proyecto final (ipynb)
-- Video del proyecto (mp4)
 - 5 datasets como fuente de datos (csv)
 - 2 archivos procesados (World_Population.csv y World_Population_limpio.csv)
